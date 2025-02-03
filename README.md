@@ -29,15 +29,11 @@ python cookie_clicker_bot.py
 
 ## ⚙️ Configuration
 
-Modify `config.py` to adjust:
+Modify interaction.py or cookie_clicker.py to adjust:
 
 - **Clicking speed**
 - **Upgrade priorities**
 - **Game automation logic**
-
-## 📸 Screenshots
-
-*Add screenshots or GIFs here to showcase the bot in action.*
 
 ## 📝 Notes
 
