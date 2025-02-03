@@ -11,14 +11,14 @@ This project automates the **Cookie Clicker** game using **Selenium WebDriver** 
 ## 🛠️ Installation
 
 ### 1. Clone the Repository  
-'''bash
+```python
 git clone https://github.com/your-username/Selenium-Project-Cookie-Clicker.git
 cd Selenium-Project-Cookie-Clicker
-
+```
 ### 2. Install Dependencies
-
-'''bash
+```python
 pip install -r requirements.txt
+```
 
 ### 3. Download WebDriver
 ChromeDriver (for Chrome users)
